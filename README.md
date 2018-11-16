@@ -56,14 +56,14 @@ Para comenzar, decidimos concretar una reunión con la product manager del banco
 
 **A) Problemas Nivel Negocio**
 
-# Análisis de la data y guerrilla testing:
+## Análisis de la data y guerrilla testing:
 Lo primero que hicimos como UX Designers en nuestra fase de descubrimiento fue analizar la data que nos ofreció el banco tras 6 meses de uso de su MVP, y que, además, contaba con una landing page y una campaña activa de Facebook ADS. Así como un testing de guerrilla con 5 usuarios.
 
 En su funnel de conversiones encontramos que sólo un 0,003% de los usuarios que veían la publicidad en Facebook se registraban en el app, y otros datos interesantes que resumimos en el siguiente gráfico:
 
 ![1_dhgsiujijhah17ghlmjdvg](https://user-images.githubusercontent.com/38727384/48633393-385dc800-e991-11e8-9212-5268453a2f12.jpeg)
 
-# Entrevista con el cliente:
+## Entrevista con el cliente:
 
 Para la Product owner es importante entender por qué, a pesar de la inversión realizada en las campañas de ADS, no se están obteniendo los resultados esperados.
 
@@ -77,7 +77,7 @@ Respecto a los hallazgos obtenidos en el análisis de la data sobre el Sistema O
 
 **B) Problemas Nivel Usuario**
 
-# Entrevistas con usuarios:
+## Entrevistas con usuarios:
 Realizamos entrevistas con 5 usuarios entre 19 y 35 años, y descubrimos que:
 
 * Todos son usuarios de telefonía móvil y tienen al menos 1 app de banca instalado. La mayoría usa el SO Android.
@@ -172,8 +172,7 @@ Con respecto al presupuesto de marketing, se propone lo siguiente:
 
 * En la pantalla de gastos no logran diferenciarlo de la pantalla de movimientos ya que no encuentran ningún gráfico que los motive a observar sus gastos, aparte que lo ven innecesario ya que la misma información lo da movimientos.
 
-![Prototipo](https://user-images.githubusercontent.com/34355830/46649720-ae376e00-cb5f-11e8-8697-ab989e95be56.png)
-
+![pantaias-01](https://user-images.githubusercontent.com/38727384/48636770-d190dc80-e999-11e8-8775-4029ceb5bb4f.jpg)
 
 ## 5. CHATBOX
 
