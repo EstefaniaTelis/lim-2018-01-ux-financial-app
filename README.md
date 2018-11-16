@@ -158,7 +158,7 @@ Con respecto al presupuesto de marketing, se propone lo siguiente:
 
 [Prototipo de Alta Fidelidad en Figma](https://www.figma.com/file/dcXYC6zHatZEzdBxMSpLsgbb/Android?node-id=0%3A1 "Prototipo Figma")
 
-[Prototipo Navegable en Marvel](https://marvelapp.com/a04bae4/screen/48673803 "Prototipo Marvel")
+[Prototipo Navegable en Marvel](https://marvelapp.com/36eiffe "Prototipo Marvel")
 
 ### **Conclusiones de Iteración**
 
