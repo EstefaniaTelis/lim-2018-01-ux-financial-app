@@ -56,35 +56,44 @@ Para comenzar, decidimos concretar una reunión con la product manager del banco
 
 **A) Problemas Nivel Negocio**
 
-#Análisis de la data y guerrilla testing:
+# Análisis de la data y guerrilla testing:
 Lo primero que hicimos como UX Designers en nuestra fase de descubrimiento fue analizar la data que nos ofreció el banco tras 6 meses de uso de su MVP, y que, además, contaba con una landing page y una campaña activa de Facebook ADS. Así como un testing de guerrilla con 5 usuarios.
 
 En su funnel de conversiones encontramos que sólo un 0,003% de los usuarios que veían la publicidad en Facebook se registraban en el app, y otros datos interesantes que resumimos en el siguiente gráfico:
 
 ![1_dhgsiujijhah17ghlmjdvg](https://user-images.githubusercontent.com/38727384/48633393-385dc800-e991-11e8-9212-5268453a2f12.jpeg)
 
-#Entrevista con el cliente:
+# Entrevista con el cliente:
 
 Para la Product owner es importante entender por qué, a pesar de la inversión realizada en las campañas de ADS, no se están obteniendo los resultados esperados.
 
-“No sabemos si deberíamos invertir más en publicidad. Nos preocupa que no está dando los resultados que esperábamos” — Gabriela Segura (Product owner)
+“No sabemos si deberíamos invertir más en publicidad. Nos preocupa que no está dando los resultados que esperábamos” 
+— Gabriela Segura (Product owner)
 
 Respecto a los hallazgos obtenidos en el análisis de la data sobre el Sistema Operativo desde el cual los usuarios entran a la landing page (89% desde Android), el banco está dispuesto dar un giro y crear un nuevo MVP para Android.
 
-“Queremos posicionarnos como un banco que piensa en sus clientes y brinda un servicio adicional: un app de ahorros que permita mejorar la cultura financiera del público jóven” — Gabriela Segura (Product owner).
+“Queremos posicionarnos como un banco que piensa en sus clientes y brinda un servicio adicional: un app de ahorros que permita mejorar la cultura financiera del público jóven” 
+— Gabriela Segura (Product owner).
 
 **B) Problemas Nivel Usuario**
 
-* La aplicación no presenta las funcionalidades que el usuario busca.
-* Algunos usuarios no planifican sus ahorros, por eso, esperan ser incentivado o motivado mediante sugerencias o tips de ahorro.
-* La mayoría de usuarios visitan la Landing Page desde dispositivos Android y no pueden utilizar la aplicación ya que tampoco hay información de la app.
-* Para los usuarios, es confuso el hecho que el botón de descarga les dirija hacia un formulario en el que tenían que dejar sus datos para que luego le llegue un mensaje con redirección hacia la appstore.
-* El flujo de la app es confuso para los usuarios, ya que se perdían al momento de elegir las opciones del menú.
+# Entrevistas con usuarios:
+Realizamos entrevistas con 5 usuarios entre 19 y 35 años, y descubrimos que:
+
+* Todos son usuarios de telefonía móvil y tienen al menos 1 app de banca instalado. La mayoría usa el SO Android.
+* El mayor uso que dan a su dispositivo es para aplicaciones de mensajería instantánea (WhatsApp) y algunas apps de banca como Yape, que fue app la favorita para ellos en el tema financiero.
+
+“Tengo cuentas en 3 bancos, pero me gusta el app del BCP (Yape) porque es fácil, seguro y rápido” 
+— José Antonio (25 años)
+
+* 3/5 han ahorrado al menos una vez, sin embargo todos manifiestan el deseo de aprender u optimizar su forma de ahorrar.
+
+“ En mi plan de ahorro anoto mis gastos y consumos para revisarlo a fin de mes” 
+— Diego (35 años)
 
 ___Insights___
-* Viajar es la actividad que estimula a más usuarios para ahorrar.
-* Los usuarios no siempre tienen clara y definida una meta concreta de ahorro.
-* Los usuarios desean tener siempre al alcance y visible los detalles de sus gastos, para así poder saber en qué se están excediendo y qué pueden ahorrar.
+Los insights que obtuvimos están resumidos en el siguiente gráfico:
+![1_pvun0tedxvwimhhmmwjdxg](https://user-images.githubusercontent.com/38727384/48633591-a86c4e00-e991-11e8-91df-0e5e33f10891.jpeg)
 
 **C) Análisis de la Data**
 
