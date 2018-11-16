@@ -37,7 +37,7 @@ Según el Global Findex Report 2017, sólo el 43% de los peruanos mayores de 15 
 
 Para iniciar, un overview de nuestro trabajo:
 * **REDISEÑO UX**
-![proceso rediseno f-01](https://user-images.githubusercontent.com/38727384/48632451-ea47c500-e98e-11e8-88bd-11294a406335.png)
+![proceso rediseno github-01](https://user-images.githubusercontent.com/38727384/48632721-a2756d80-e98f-11e8-9cce-d8c25f9ad7f8.jpg)
 
 ## 1. OBJETIVOS INICIALES DEL PROYECTO
 
