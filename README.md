@@ -56,10 +56,22 @@ Para comenzar, decidimos concretar una reunión con la product manager del banco
 
 **A) Problemas Nivel Negocio**
 
-* La aplicación solo esta segmentada para un público objetivo que tienen dispositivos iOS.
-* No está claro que es una app de ahorro perteneciente al banco.
-* El diseño de los Facebook ADS no ofrece mucha información sobre la app o el S.O y la inversión por este medio no está dando resultados.
-* Se pierden muchos usuarios por medio del Landing Page ya que no ofrece mucha información de la aplicación.
+#Análisis de la data y guerrilla testing:
+Lo primero que hicimos como UX Designers en nuestra fase de descubrimiento fue analizar la data que nos ofreció el banco tras 6 meses de uso de su MVP, y que, además, contaba con una landing page y una campaña activa de Facebook ADS. Así como un testing de guerrilla con 5 usuarios.
+
+En su funnel de conversiones encontramos que sólo un 0,003% de los usuarios que veían la publicidad en Facebook se registraban en el app, y otros datos interesantes que resumimos en el siguiente gráfico:
+
+![1_dhgsiujijhah17ghlmjdvg](https://user-images.githubusercontent.com/38727384/48633393-385dc800-e991-11e8-9212-5268453a2f12.jpeg)
+
+#Entrevista con el cliente:
+
+Para la Product owner es importante entender por qué, a pesar de la inversión realizada en las campañas de ADS, no se están obteniendo los resultados esperados.
+
+“No sabemos si deberíamos invertir más en publicidad. Nos preocupa que no está dando los resultados que esperábamos” — Gabriela Segura (Product owner)
+
+Respecto a los hallazgos obtenidos en el análisis de la data sobre el Sistema Operativo desde el cual los usuarios entran a la landing page (89% desde Android), el banco está dispuesto dar un giro y crear un nuevo MVP para Android.
+
+“Queremos posicionarnos como un banco que piensa en sus clientes y brinda un servicio adicional: un app de ahorros que permita mejorar la cultura financiera del público jóven” — Gabriela Segura (Product owner).
 
 **B) Problemas Nivel Usuario**
 
