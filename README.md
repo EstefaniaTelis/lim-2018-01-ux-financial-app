@@ -23,9 +23,9 @@ Proyecto realizado por UX LAB.
 
 ***
 
-## INTRODUCCIÓN
+## INTRODUCCIÓN / CONTEXTO
 
-El banco más importante del país lanzo una nueva aplicación móvil al mercado. Esta permite a los usuarios visualizar sus gastos mensuales y ahorros, pero a pesar de la transformación digital que han vivido, su público más joven se está alejando de su uso. Luego del periodo de 6 meses y no 100 % contentos con el resultado, contactaron a nuestro equipo de UX LAB para que los ayudemos a definir la dirección y evolución de este producto.
+El banco más importante del Perú nos ha encargado hacer un rediseño de su aplicación ‘Tus finanzas’, un MVP desarrollado como app para iOS (adicional a la app nativa del banco) que busca promover el ahorro en sus usuarios, incentivándolos a crear nuevas metas de ahorro a futuro.
 
 * **MVP IOS**
 ![MVP IOS](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
@@ -33,19 +33,18 @@ El banco más importante del país lanzo una nueva aplicación móvil al mercado
 * **LANDING PAGE**
 ![LP](https://user-images.githubusercontent.com/34355830/46640889-2be58480-cb34-11e8-8f13-8bf6b885e4b2.jpg)
 
-Con los datos y recursos dados por el Product Manager, el proceso de rediseño que tendrá la aplicacion será el siguiente:
+Según el Global Findex Report 2017, sólo el 43% de los peruanos mayores de 15 años tiene una cuenta bancaria, es decir, unas 10.9 millones de personas; un 34% ha hecho pagos digitales y apenas un 8% ha utilizado una entidad financiera para ahorrar.
+
+Para iniciar, un overview de nuestro trabajo:
 * **REDISEÑO UX**
-![proceso-01](https://user-images.githubusercontent.com/34355830/46644533-41fc4080-cb46-11e8-9308-a0fec723147f.png)
+![proceso rediseno f-01](https://user-images.githubusercontent.com/38727384/48632451-ea47c500-e98e-11e8-88bd-11294a406335.png)
 
 ## 1. OBJETIVOS INICIALES DEL PROYECTO
 
-Nuestros objetivos son:
-
- * Definir la dirección y evolución del producto.
- * Validar los usuarios actuales.
- * Analizar la efectividad de la publicidad.
- * Mejorar el flujo del usuario.
- * Realizar la propuesta de rediseño de la aplicación.
+* Definir la dirección y evolución del MVP ‘Tus finanzas app’.
+* Validar los user persona actuales.
+* Analizar la efectividad de la publicidad en Facebook y la landing page asociada.
+* Optimizar el flujo de los usuarios.
 
 ## 2. PROBLEMAS A NIVEL DE NEGOCIO Y USUARIO
 
