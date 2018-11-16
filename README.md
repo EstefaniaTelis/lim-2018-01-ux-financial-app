@@ -59,7 +59,18 @@ Para comenzar, decidimos concretar una reunión con la product manager del banco
 ## Análisis de la data y guerrilla testing:
 Lo primero que hicimos como UX Designers en nuestra fase de descubrimiento fue analizar la data que nos ofreció el banco tras 6 meses de uso de su MVP, y que, además, contaba con una landing page y una campaña activa de Facebook ADS. Así como un testing de guerrilla con 5 usuarios.
 
-En su funnel de conversiones encontramos que sólo un 0,003% de los usuarios que veían la publicidad en Facebook se registraban en el app, y otros datos interesantes que resumimos en el siguiente gráfico:
+### En su funnel de conversiones encontramos que:
+
+* Apenas un promedio de **2,39%** de las impresiones en Facebook se dirigen al **Landing Page**.
+* No hay **relación efectiva (incremento)** entre el aumento de impresiones y la cantidad de visitas a la LP.
+* Aún cuando aumentan las visitas a la LP **no hay aumento proporcional de visitas a la APP Store** en el tiempo.
+* Sólo un **11%** en promedio de quienes visitan la App Store, **instalan la app**.
+* Hay un **leve incremento en el último trimestre** , que no parece significativo.
+* De los usuarios que descargan la aplicación, sólo un **10%** en promedio **se registra**, aún cuando las impresiones aumentan.
+* Aún cuando hay varios picos de impresiones, **no existe un aumento proporcional de descargas en la app store**.
+* Sólo un 0,003% de los usuarios que veían la publicidad en Facebook se registraban en el app
+
+* Otros datos interesantes que resumimos en el siguiente gráfico:
 
 ![1_dhgsiujijhah17ghlmjdvg](https://user-images.githubusercontent.com/38727384/48633393-385dc800-e991-11e8-9212-5268453a2f12.jpeg)
 
@@ -91,25 +102,12 @@ Realizamos entrevistas con 5 usuarios entre 19 y 35 años, y descubrimos que:
 “ En mi plan de ahorro anoto mis gastos y consumos para revisarlo a fin de mes” 
 — Diego (35 años)
 
-___Insights___
+##Insights
+
 Los insights que obtuvimos están resumidos en el siguiente gráfico:
 ![1_pvun0tedxvwimhhmmwjdxg](https://user-images.githubusercontent.com/38727384/48633591-a86c4e00-e991-11e8-91df-0e5e33f10891.jpeg)
 
-**C) Análisis de la Data**
 
-El Product Manager nos proporcionó data con estadísticas del tráfico de su APP, obteniendo las siguientes observaciones:
-
-* Solo un promedio de **2,39%** de las impresiones en Facebook se dirigen al **Landing Page**.
-* No hay **relación efectiva (incremento)** entre el aumento de impresiones y la cantidad de visitas a la LP.
-* Aún cuando aumentan las visitas a la LP **no hay aumento proporcional de visitas a la APP Store** en el tiempo.
-* Sólo un **11%** en promedio de quienes visitan la App Store, **instalan la app**.
-* Hay un **leve incremento en el último trimestre** , que no parece significativo.
-* De los usuarios que descargan la aplicación, sólo un **10%** en promedio **se registra**, aún cuando las impresiones aumentan.
-* Aún cuando hay varios picos de impresiones, **no existe un aumento proporcional de descargas en la app store**.
-
-[Análisis de la Data](https://docs.google.com/presentation/d/1MCNlTuj8TwLwS0Shw5MFGcZOVUkLvY9DOv_7WAHkPsM/edit?usp=sharing "Data")
-
-![Funnel](https://user-images.githubusercontent.com/34355830/46122959-5bfe6080-c1e1-11e8-9793-393a966d0fb7.png)
 
 ## 3. RECOMENDACIONES
 
